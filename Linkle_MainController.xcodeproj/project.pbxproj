@@ -18,6 +18,15 @@
 		C7325A821645329D00AABC64 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C7325A811645329D00AABC64 /* Default-568h@2x.png */; };
 		C7325A851645329D00AABC64 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C7325A841645329D00AABC64 /* ViewController.m */; };
 		C7325A881645329D00AABC64 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C7325A861645329D00AABC64 /* ViewController.xib */; };
+		C7837A131647CAD9007A7735 /* LeftWingController.m in Sources */ = {isa = PBXBuildFile; fileRef = C7837A121647CAD9007A7735 /* LeftWingController.m */; };
+		C7837A171647CAF6007A7735 /* RightWingController.m in Sources */ = {isa = PBXBuildFile; fileRef = C7837A161647CAF6007A7735 /* RightWingController.m */; };
+		C7837A1A1647CC48007A7735 /* MiddleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C7837A191647CC48007A7735 /* MiddleViewController.m */; };
+		C7837A2B1647D481007A7735 /* MiddleVIewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C7837A2A1647D481007A7735 /* MiddleVIewCell.m */; };
+		C7837A2D1647D495007A7735 /* MiddleViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = C7837A2C1647D495007A7735 /* MiddleViewCell.xib */; };
+		C7837A3B1647FE6B007A7735 /* LeftViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C7837A3A1647FE6B007A7735 /* LeftViewCell.m */; };
+		C7837A3D1647FE87007A7735 /* LeftViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = C7837A3C1647FE87007A7735 /* LeftViewCell.xib */; };
+		C7FC23AE16479CC00041AFCB /* test.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C7FC23AD16479CC00041AFCB /* test.jpg */; };
+		C7FC23B016479E970041AFCB /* MiddlePage.xib in Resources */ = {isa = PBXBuildFile; fileRef = C7FC23AF16479E970041AFCB /* MiddlePage.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +46,20 @@
 		C7325A831645329D00AABC64 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		C7325A841645329D00AABC64 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		C7325A871645329D00AABC64 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		C7837A111647CAD9007A7735 /* LeftWingController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LeftWingController.h; sourceTree = "<group>"; };
+		C7837A121647CAD9007A7735 /* LeftWingController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LeftWingController.m; sourceTree = "<group>"; };
+		C7837A151647CAF6007A7735 /* RightWingController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RightWingController.h; sourceTree = "<group>"; };
+		C7837A161647CAF6007A7735 /* RightWingController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RightWingController.m; sourceTree = "<group>"; };
+		C7837A181647CC48007A7735 /* MiddleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MiddleViewController.h; sourceTree = "<group>"; };
+		C7837A191647CC48007A7735 /* MiddleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MiddleViewController.m; sourceTree = "<group>"; };
+		C7837A291647D481007A7735 /* MiddleVIewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MiddleVIewCell.h; sourceTree = "<group>"; };
+		C7837A2A1647D481007A7735 /* MiddleVIewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MiddleVIewCell.m; sourceTree = "<group>"; };
+		C7837A2C1647D495007A7735 /* MiddleViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MiddleViewCell.xib; sourceTree = "<group>"; };
+		C7837A391647FE6B007A7735 /* LeftViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LeftViewCell.h; sourceTree = "<group>"; };
+		C7837A3A1647FE6B007A7735 /* LeftViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LeftViewCell.m; sourceTree = "<group>"; };
+		C7837A3C1647FE87007A7735 /* LeftViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LeftViewCell.xib; sourceTree = "<group>"; };
+		C7FC23AD16479CC00041AFCB /* test.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = test.jpg; sourceTree = "<group>"; };
+		C7FC23AF16479E970041AFCB /* MiddlePage.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MiddlePage.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,12 +106,17 @@
 		C7325A711645329D00AABC64 /* Linkle_MainController */ = {
 			isa = PBXGroup;
 			children = (
+				C7837A381647F895007A7735 /* LeftViewGroup */,
+				C7837A2E1647D4E9007A7735 /* MiddleViewGroup */,
+				C7837A151647CAF6007A7735 /* RightWingController.h */,
+				C7837A161647CAF6007A7735 /* RightWingController.m */,
 				C7325A7A1645329D00AABC64 /* AppDelegate.h */,
 				C7325A7B1645329D00AABC64 /* AppDelegate.m */,
 				C7325A831645329D00AABC64 /* ViewController.h */,
 				C7325A841645329D00AABC64 /* ViewController.m */,
 				C7325A861645329D00AABC64 /* ViewController.xib */,
 				C7325A721645329D00AABC64 /* Supporting Files */,
+				C7FC23AD16479CC00041AFCB /* test.jpg */,
 			);
 			path = Linkle_MainController;
 			sourceTree = "<group>";
@@ -96,6 +124,7 @@
 		C7325A721645329D00AABC64 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				C7FC23AF16479E970041AFCB /* MiddlePage.xib */,
 				C7325A731645329D00AABC64 /* Linkle_MainController-Info.plist */,
 				C7325A741645329D00AABC64 /* InfoPlist.strings */,
 				C7325A771645329D00AABC64 /* main.m */,
@@ -105,6 +134,30 @@
 				C7325A811645329D00AABC64 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		C7837A2E1647D4E9007A7735 /* MiddleViewGroup */ = {
+			isa = PBXGroup;
+			children = (
+				C7837A181647CC48007A7735 /* MiddleViewController.h */,
+				C7837A191647CC48007A7735 /* MiddleViewController.m */,
+				C7837A291647D481007A7735 /* MiddleVIewCell.h */,
+				C7837A2A1647D481007A7735 /* MiddleVIewCell.m */,
+				C7837A2C1647D495007A7735 /* MiddleViewCell.xib */,
+			);
+			name = MiddleViewGroup;
+			sourceTree = "<group>";
+		};
+		C7837A381647F895007A7735 /* LeftViewGroup */ = {
+			isa = PBXGroup;
+			children = (
+				C7837A111647CAD9007A7735 /* LeftWingController.h */,
+				C7837A121647CAD9007A7735 /* LeftWingController.m */,
+				C7837A391647FE6B007A7735 /* LeftViewCell.h */,
+				C7837A3A1647FE6B007A7735 /* LeftViewCell.m */,
+				C7837A3C1647FE87007A7735 /* LeftViewCell.xib */,
+			);
+			name = LeftViewGroup;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -163,6 +216,10 @@
 				C7325A801645329D00AABC64 /* Default@2x.png in Resources */,
 				C7325A821645329D00AABC64 /* Default-568h@2x.png in Resources */,
 				C7325A881645329D00AABC64 /* ViewController.xib in Resources */,
+				C7FC23AE16479CC00041AFCB /* test.jpg in Resources */,
+				C7FC23B016479E970041AFCB /* MiddlePage.xib in Resources */,
+				C7837A2D1647D495007A7735 /* MiddleViewCell.xib in Resources */,
+				C7837A3D1647FE87007A7735 /* LeftViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,6 +233,11 @@
 				C7325A781645329D00AABC64 /* main.m in Sources */,
 				C7325A7C1645329D00AABC64 /* AppDelegate.m in Sources */,
 				C7325A851645329D00AABC64 /* ViewController.m in Sources */,
+				C7837A131647CAD9007A7735 /* LeftWingController.m in Sources */,
+				C7837A171647CAF6007A7735 /* RightWingController.m in Sources */,
+				C7837A1A1647CC48007A7735 /* MiddleViewController.m in Sources */,
+				C7837A2B1647D481007A7735 /* MiddleVIewCell.m in Sources */,
+				C7837A3B1647FE6B007A7735 /* LeftViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -290,6 +352,7 @@
 				C7325A8D1645329D00AABC64 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
